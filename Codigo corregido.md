@@ -41,11 +41,11 @@
 </footer>
 </body>
 </html>
-
+```
 
 ## /private/auth.php
 
-<!DOCTYPE html>
+``` <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
