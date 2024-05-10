@@ -6,7 +6,7 @@
 2. [## /private/auth.php](#/private/auth.php)
 
 ## Register_player
-<!DOCTYPE html>
+``` <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
